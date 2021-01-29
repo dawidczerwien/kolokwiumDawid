@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/address.cpp
+string
+-
+
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/address.h
+stdio.h
+-
+
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/employee.cpp
+address.h
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/address.h
+
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/employee.h
+
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/main.cpp
+employee.h
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/employee.h
+address.h
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3_cmake/address.h
+

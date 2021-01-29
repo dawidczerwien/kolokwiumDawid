@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(xyz)
+set(SOURCES main.cpp employee.cpp address.cpp)
+add_executable(myProgram ${SOURCES})
+install(TARGETS myProgram DESTINATION build)

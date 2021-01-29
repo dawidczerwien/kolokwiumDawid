@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(xyz)
+include_directories(include)
+add_library(Student STATIC src/libtest.cpp)
+add_executable(main src/Student.cpp)
+target_link_libraries(main libStudent.a)
+install(TARGETS main DESTINATION /bin)

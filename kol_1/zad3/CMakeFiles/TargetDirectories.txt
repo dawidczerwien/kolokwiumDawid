@@ -1,0 +1,8 @@
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/install/strip.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/install/local.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/install.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/list_install_components.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/rebuild_cache.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/edit_cache.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/main.dir
+/home/jan/Pulpit/kookwium/kolokwium/kol_1/zad3/CMakeFiles/Student.dir
